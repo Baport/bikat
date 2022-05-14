@@ -1,7 +1,7 @@
 {
   "name": "RavagerBot",
   "description": "A telegram bot that downloads content in the form of torrent and direct download links and mirrors them 1:1 to google drive",
-  "repository": "https://github.com/CoolFool/Ravager",
+  "repository": "https://github.com/Baport/bikat",
   "stack":"container",
   "env":{
     "APP_URL":{
